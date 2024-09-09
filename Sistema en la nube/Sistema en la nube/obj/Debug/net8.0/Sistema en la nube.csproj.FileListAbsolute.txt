@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\bin\Debug\net8.0\Sistema en la nube.exe
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\bin\Debug\net8.0\Sistema en la nube.deps.json
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\bin\Debug\net8.0\Sistema en la nube.runtimeconfig.json
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\bin\Debug\net8.0\Sistema en la nube.dll
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\bin\Debug\net8.0\Sistema en la nube.pdb
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.AssemblyInfo.cs
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.dll
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\refint\Sistema en la nube.dll
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.pdb
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\Sistema en la nube.genruntimeconfig.cache
+C:\Users\admin\Documents\GABO CODES\Sistema en la nube\Sistema en la nube\obj\Debug\net8.0\ref\Sistema en la nube.dll

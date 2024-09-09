@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema en la nube/1.0.0": {
+        "runtime": {
+          "Sistema en la nube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema en la nube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
